@@ -47,7 +47,7 @@
 <h3>Running the Frontend and Backend together (may affect the UI of cloned website): </h3>
 <ol>
   <li>Fork and clone the respository to your local machine</li>
-  <li>Ensure that your environment has ast least Java 17, Angular v 20.9, TypeScript 5.9</li>
+  <li>Ensure that your environment has at least Java 17, Angular v 20.9, TypeScript 5.9</li>
   <li>Open the project in your preffered IDE and run the Java program (ManageProductApplication.java)</li>
   <li>Once the program is up and running, you can head over to localhost:8080 to check out the Frontend</li>
 </ol>
