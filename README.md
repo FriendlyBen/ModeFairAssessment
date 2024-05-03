@@ -43,6 +43,7 @@
     Once the Frontend is up and running, you can head over to <b>localhost:4200</b> to check out the cloned website.
   </li>
 </ol>
+<h3>Running the Frontend and Backend together (may affect the UI of cloned website): </h3>
 <ol>
   <li>Fork and clone the respository to your local machine</li>
   <li>Ensure that your environment has ast least Java 17, Angular v 20.9, TypeScript 5.9</li>
