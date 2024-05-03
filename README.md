@@ -27,7 +27,7 @@
     <li>TypeScript</li>
   </ul>
 <h2>Instructions</h2>
-<h3>clone project: git clone -b master https://github.com/FriendlyBen/ModeFairAssessment.git</h3>
+<h3>clone project: "git clone -b master https://github.com/FriendlyBen/ModeFairAssessment.git"</h3>
 <h2>For optimal UI/UX : Run the Frontend and Backend project separately </h2>
 <ol>
   <li>
